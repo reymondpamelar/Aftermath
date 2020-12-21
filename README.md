@@ -1,5 +1,5 @@
 # Aftermath
- A 3D top-down, hack-and-slash game (made using unity). This game places the player to fend for their life as an endless horde of enemies attacks them.
+ A 3D top-down, hack-and-slash game (made using unity). This game places the player in a post-apocalyptic Earth to fend for their life as an endless horde of enemies attacks them.
 
 Created through the collaborative effort of: 
 
