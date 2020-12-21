@@ -1,11 +1,17 @@
 # Aftermath
  A 3D top-down, hack-and-slash game (made using unity). This game places the player to fend for their life as an endless horde of enemies attacks them.
 
-Created through the collaborative effort of: \n
-Reymond Pamelar\n
-Tyler Nguyen\n
-Sam Hsu\n
-Reian Festejo\n
+Created through the collaborative effort of: 
+
+	Reymond Pamelar
+
+	Tyler Nguyen
+
+	Sam Hsu
+
+	Reian Festejo
+
+
 
 Further explanation (through a Game Design Document) of the game can be found under: Assets/Documentation/CS 583_ 3D Game GDD (1).docx
 
